@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="156" src="https://github.com/sp4r1ng/sp4r1ng/blob/main/b32ea15166205a4a22f9c992b5759b6e.jpg?raw=true"  />
+  <img height="156" src="https://github.com/sp4r1ng/sp4r1ng/blob/main/74628fc250358df36a7c3188646e2e9f.jpg?raw=true"  />
 </div>
 
 ###
